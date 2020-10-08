@@ -1,16 +1,22 @@
-# todoList
+# VD_flutter_training_2.1
 
-A new Flutter project.
+## To Do List
 
-## Getting Started
+A simple Flutter application where you can add a task simply by clicking the floating action button with a '+' sign. Then you enter the details of the task and on completing press the done icon in the floating action button, it is entered in your list of existing tasks. 
 
-This project is a starting point for a Flutter application.
+You can also remove a task from the list after you deem it complete.
 
-A few resources to get you started if this is your first Flutter project:
+# Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Initial page/Tasks page
+![](images/image_1.jpeg)
+## Add Task page
+![](images/image_2.jpeg)
+## Task added and pressing the done button
+![](images/image_3.jpeg)
+## Task Added
+![](images/image_4.jpeg)
+## Now we added more tasks
+![](images/image_5.jpeg)
+## Removed the second task by clicking the done icon provided along
+![](images/image_6.jpeg)

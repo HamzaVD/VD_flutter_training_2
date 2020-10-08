@@ -32,6 +32,7 @@ class _AddTaskPageState extends State<AddTaskPage> {
             children: [
               ListTile(
                 title: TextFormField(
+                  key: Key('AddTaskField'),
                   decoration: InputDecoration(hintText: 'Insert new task here'),
                   controller: _taskFieldController,
                 ),
